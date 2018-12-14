@@ -1,0 +1,11 @@
+Red Green Blue Yellow Orange
+
+Red Green Purple Blue Yellow 
+
+Blue Yellow Red Green Purple 
+
+Green Blue Yellow Orange Red
+
+Yellow Green Purple Blue Yellow
+
+Blue Blue Blue Blue Blue
